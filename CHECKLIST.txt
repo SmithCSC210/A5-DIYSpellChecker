@@ -1,5 +1,5 @@
 # CSC 210 Data Structures
-## Homework 6 Checklist
+## Homework 5 Checklist
 
 Listed below are various aspects of the assignment.  When you turn 
 in your work, please indicate the status of each item
@@ -27,14 +27,16 @@ _____ 5 pts: Implements nearMisses method as specified, composed of:
 
       _____ 1 pt: Suggests correct split words
 
-_____ 1 pt: Main includes multiple tests for each point listed above
+_____ 1 pt: Includes multiple tests for each point listed above
 
 _____ 1 pt: SpellChecker runs in command line mode as described
 
 _____ 1 pt: SpellChecker runs in file checking mode as described
 
-(Note that in addition to the tests that you write, we will perform automated testing of our own on your submitted code.)
+In each part, we will pay close attention to which data structures you are using. 
+Please feel invited to provide an explanation in your readme.
 
+(Note that in addition to the tests provided, we will perform automated testing of our own on your submitted code.)
 
 
 ## General Items:
